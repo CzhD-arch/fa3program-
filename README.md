@@ -1,3 +1,3 @@
 # fa3program-
 
-Hi! This is my FA3 project for Computer Science. This aims to train my comprehension in Python!
+Hi! I'm Czeo G. Deniega. This is my FA3 project for Computer Science. This aims to train my comprehension in Python!
